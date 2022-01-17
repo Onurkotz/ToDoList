@@ -1,3 +1,3 @@
-## JAVASCRIPT kullanarak To Do list çalışması
+# JAVASCRIPT kullanarak To Do list çalışması
 
-# Temel fonksiyonlar kuruldu.
+## Temel fonksiyonlar kuruldu.
